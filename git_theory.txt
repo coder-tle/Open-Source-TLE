@@ -3,3 +3,5 @@ git flow:
 --high level commands which makes work streamlined
 --e.g like we created new feature branch and where we added new functionality
 and these were atlast merged at end to develop branch.
+
+git feature branch:
